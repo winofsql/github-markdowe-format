@@ -6,6 +6,5 @@
 
 ### 3. [コードブロックの作成と強調表示](https://docs.github.com/ja/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
 
-行間なしで文章を書く
-  
+行間なしで文章を書く  
 行間なしで文章を書く
