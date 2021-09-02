@@ -10,5 +10,5 @@
 行間なしで文章を書く(上の行の最後にスペース2個)\
 行間なしで文章を書く(上の行の最後に\\)
 ## 画像はコピーしてここにペーストすると、GitHub にアップロードしてくれる
-![image](https://user-images.githubusercontent.com/1501327/131764444-03ad09ba-296b-4de7-92c6-256c40856bf6.png)
+![image](https://user-images.githubusercontent.com/1501327/131768190-fba69e92-07da-4c1e-8e36-254fa5e8c473.png)
 
